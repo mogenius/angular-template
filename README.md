@@ -29,3 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Deploy on mogenius
 
 The easiest way to deploy your Angular app is to use the [mogenius Platform](https://mogenius.com) from the creators of awesome hot shit.
+Join our Discord: [Discord](https://discord.gg/WSxnFHr4qm)
