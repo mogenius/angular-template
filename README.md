@@ -1,10 +1,10 @@
 # Angular template
-This is a template for [mogenius](https://mogenius.com). You can use our predefined templates, create your own or fork and modify our templates. There are simply no limits. Want to learn more about mogenius? Sign up for free](https://mogenius.com) and get started.
+This is a template to run Angular on [mogenius](https://mogenius.com). We use it to deploy Angular from our service library. If you have an Angular project that you want to run on mogenius feel free to add this template to your project.
 ## Deployment on mogenius
-The easiest way to deploy your Angular application using [mogenius](https://mogenius.com).\
-Discord: [https://discord.gg/WSxnFHr4qm](https://discord.gg/WSxnFHr4qm)\
-Feedback: [https://feedback.mogenius.com/](https://feedback.mogenius.com/)\
-Docs: [https://docs.mogenius.com](https://docs.mogenius.com)\
+[mogenius](https://mogenius.com) is the easiest way to run an Angular application in the cloud. It's free, so [sign up now](https://studio.mogenius.com/user/registration) and deploy your app with mogenius.
+- Read the docs: [docs.mogenius.com](https://docs.mogenius.com)
+- Join our Discord community: [discord.gg/WSxnFHr4qm](https://discord.gg/WSxnFHr4qm)
+- Submit your ideas: [feedback.mogenius.com](https://feedback.mogenius.com)
 
 ## AngularApp
 
