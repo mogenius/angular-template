@@ -2,10 +2,10 @@
 This is a template for the [mogenius Platform](https://mogenius.com). You can use our predefined templates, create your own templates or fork and modify our templates. There are no limits. You want to know more about mogenius? Just [sign up](https://mogenius.com) and get started.
 
 ## Deploy on mogenius
-The easiest way to deploy your Angular app is to use the [mogenius Platform](https://mogenius.com).
-Discord: [https://discord.gg/WSxnFHr4qm](https://discord.gg/WSxnFHr4qm)
-Feedback: [https://feedback.mogenius.com/](https://feedback.mogenius.com/)
-Docs: [https://docs.mogenius.com](https://docs.mogenius.com)
+The easiest way to deploy your Angular app is to use the [mogenius Platform](https://mogenius.com).\
+Discord: [https://discord.gg/WSxnFHr4qm](https://discord.gg/WSxnFHr4qm)\
+Feedback: [https://feedback.mogenius.com/](https://feedback.mogenius.com/)\
+Docs: [https://docs.mogenius.com](https://docs.mogenius.com)\
 
 ## AngularApp
 
