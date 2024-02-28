@@ -1,5 +1,5 @@
 serviceType: GIT_REPOSITORY
-displayName: angular-template
+displayName: angular-template7897
 gitRepository: https://github.com/mogenius/angular-template.git
 gitBranch: main
 dockerfileName: Dockerfile
