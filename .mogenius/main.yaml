@@ -5,8 +5,8 @@ gitBranch: main
 dockerfileName: Dockerfile
 dockerContext: .
 k8sSettings:
-  limitCpuCores: 0.3
-  limitMemoryMB: 32
+  limitCpuCores: 0.7
+  limitMemoryMB: 200
   ephemeralStorageMB: 50
   replicaCount: 1
   deploymentStrategy: recreate
@@ -15,8 +15,8 @@ k8sSettings:
 envVars: []
 ports:
   - portType: HTTPS
-    internalPort: 80
+    internalPort: 8080
     externalPort: 80
-    expose: false
+    expose: true
 app: null
 
