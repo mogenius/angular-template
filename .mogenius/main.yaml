@@ -1,7 +1,5 @@
-serviceType: GIT_REPOSITORY
-displayName: angular-template
-gitRepository: https://github.com/mogenius/angular-template.git
-gitBranch: main
+serviceType: Deployment
+displayName: numb
 dockerfileName: Dockerfile
 dockerContext: .
 k8sSettings:
@@ -18,5 +16,4 @@ ports:
     internalPort: 8080
     externalPort: 80
     expose: true
-app: null
 
