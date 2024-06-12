@@ -1,5 +1,5 @@
 serviceType: Deployment
-displayName: numb
+displayName: mnbvc
 dockerfileName: Dockerfile
 dockerContext: .
 k8sSettings:
