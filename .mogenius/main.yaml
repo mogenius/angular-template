@@ -1,5 +1,5 @@
 serviceType: Deployment
-displayName: mnbvc
+displayName: repp
 dockerfileName: Dockerfile
 dockerContext: .
 k8sSettings:
