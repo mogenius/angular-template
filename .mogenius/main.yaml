@@ -1,5 +1,5 @@
 serviceType: Deployment
-displayName: repp
+displayName: angular
 dockerfileName: Dockerfile
 dockerContext: .
 k8sSettings:
