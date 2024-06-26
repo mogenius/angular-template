@@ -1,5 +1,5 @@
 serviceType: Deployment
-displayName: ertzu
+displayName: tempstar
 dockerfileName: Dockerfile
 dockerContext: .
 k8sSettings:
