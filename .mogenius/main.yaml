@@ -1,10 +1,10 @@
 serviceType: Deployment
-displayName: repo6
+displayName: repo5
 dockerfileName: Dockerfile
 dockerContext: .
 k8sSettings:
   limitCpuCores: 0.2
-  limitMemoryMB: 200
+  limitMemoryMB: 350
   ephemeralStorageMB: 50
   replicaCount: 1
   deploymentStrategy: recreate
