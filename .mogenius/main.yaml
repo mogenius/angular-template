@@ -1,5 +1,5 @@
 serviceType: Deployment
-displayName: repözitöri
+displayName: repp
 dockerfileName: Dockerfile
 dockerContext: .
 k8sSettings:
