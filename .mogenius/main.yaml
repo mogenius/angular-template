@@ -3,9 +3,9 @@ displayName: repp
 dockerfileName: Dockerfile
 dockerContext: .
 k8sSettings:
-  limitCpuCores: 0.2
-  limitMemoryMB: 350
-  ephemeralStorageMB: 500
+  limitCpuCores: 1
+  limitMemoryMB: 200
+  ephemeralStorageMB: 50
   replicaCount: 1
   deploymentStrategy: recreate
   imagePullPolicy: IfNotPresent
