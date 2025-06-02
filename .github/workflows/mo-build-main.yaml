@@ -65,15 +65,3 @@ jobs:
           containerName: ang-l
           keyKind: ${{ vars.MO_API_KIND__MAIN }}
           token: ${{ secrets.MO_API_TOKEN__a2da82a0fd885d96b0f1__MAIN }}
-      - id: releaseWithMogenius-f781f548dc3221edf0eb
-        name: Release with mogenius
-        uses: mogenius/mogenius-release-action@v1
-        with:
-          dev: true
-          image: ${{ vars.MO_IMAGE_NAME__MAIN }}:${{ env.VERSION }}
-          kind: Deployment
-          namespace: mogenius
-          resourceName: angularmog
-          containerName: angularmog
-          keyKind: ${{ vars.MO_API_KIND__MAIN }}
-          token: ${{ secrets.MO_API_TOKEN__f781f548dc3221edf0eb__MAIN }}
